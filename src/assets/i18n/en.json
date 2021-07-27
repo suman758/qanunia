@@ -1,0 +1,20 @@
+{
+    "demo": {
+        "action": "Language",
+        "rtl": "Arabic",
+        "ltr":"English",
+        "Sign in with":"Sign in with",
+        "Or":"Or",
+        "Email Address":"Email Address",
+        "Password":"Password",
+        "Remember me":"Remember me",
+        "Forgot Password":"Forgot Password",
+        "Login":"Login",
+        "Don't have an account":"Don't have an account",
+        "Register":"Register",
+        "Copyright":"Copyright",
+        "All rights reserved":"All rights reserved",
+        "Enter a valid email address":"Enter a valid email address",
+        "Enter password":"Enter password"
+    }
+}

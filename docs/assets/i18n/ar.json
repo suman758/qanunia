@@ -1,0 +1,21 @@
+{
+    "demo": {
+        "action": "لغة",
+        "rtl": "Arabic",
+        "ltr":"English",
+        "Sign in with":"تسجيل الدخول ب",
+        "Or":"أو",
+        "Email Address":"عنوان البريد الإلكتروني",
+        "Password":"كلمة المرور",
+        "Remember me":"تذكرنى",
+        "Forgot Password":"هل نسيت كلمة السر",
+        "Login":" تسجيل الدخول",
+        "Don't have an account":"ليس لديك حساب",
+        "Register":"يسجل",
+        "Copyright":"حقوق النشر",
+        "All rights reserved":"كل الحقوق محفوظة",
+        "Enter a valid email address":"أدخل عنوان بريد إلكتروني صالح",
+        "Enter password":"أدخل كلمة المرور"
+        
+    }
+}
